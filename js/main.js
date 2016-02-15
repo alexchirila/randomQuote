@@ -12,9 +12,9 @@ document.getElementById("quote-random").innerHTML=randomQuote();
 			quote4 : { quote : "When we love, we always strive to become better than we are. When we strive to become better than we are, everything around us becomes better too.",
 					   author : "Paulo Coelho, The Alchemist "},
 			quote5 : { quote : "The flower that blooms in adversity is the rarest and most beautiful of all.",
-					   author : "Walt Disney Company, Mulan "}
+					   author : "Walt Disney Company, Mulan "},
 			quote6 : { quote : "You are the semicolon to my statements.",
-					   author : "Unknown"}
+					   author : "Unknown	"}
 				};
 
 
