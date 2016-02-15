@@ -13,6 +13,8 @@ document.getElementById("quote-random").innerHTML=randomQuote();
 					   author : "Paulo Coelho, The Alchemist "},
 			quote5 : { quote : "The flower that blooms in adversity is the rarest and most beautiful of all.",
 					   author : "Walt Disney Company, Mulan "}
+			quote6 : { quote : "You are the semicolon to my statements.",
+					   author : "Unknown"}
 				};
 
 
